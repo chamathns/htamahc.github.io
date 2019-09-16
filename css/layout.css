@@ -235,7 +235,7 @@ ul#nav li.current a { color: #F06000; }
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
 
-#resume {
+#education {
    background: #fff;
    padding-top: 90px;
    padding-bottom: 72px;
@@ -788,10 +788,10 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background: #6e879c;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   color: #ffffff;
 }
 #contact .section-head { margin-bottom: 42px; }
 
@@ -808,7 +808,7 @@ call-to-action .button {
 #contact h1 span { display: none; }
 #contact h1:before {
    font-family: 'FontAwesome';
-   content: "\f0e0";
+   /* content: "\f0e0"; */
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
